@@ -1,4 +1,4 @@
-import { animal } from './Animal.css';
+import './Animal.css';
 
 export default function Animal(props) {
   return (
